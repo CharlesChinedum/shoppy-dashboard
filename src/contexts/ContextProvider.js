@@ -46,6 +46,7 @@ export const ContextProvider = ({ children }) => {
         activeMenu: activeMenu,
         setActiveMenu,
         isClicked,
+        initialState,
         setIsClicked,
         handleClick,
         screenSize,
