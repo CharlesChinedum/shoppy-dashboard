@@ -1,5 +1,7 @@
 ## Live Link 👇🏾
 
+https://shoppy-dashboard-project.netlify.app
+
 ## Functionalities
 
 - Fully Mobile Responsive 💻📱
